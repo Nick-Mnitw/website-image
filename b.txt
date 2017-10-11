@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test01
+=======
+test
+>>>>>>> 0d7c88f... add b.txt for text
